@@ -1,0 +1,9 @@
+configuration {
+    modi: "drun,run,window";
+    show-icons: true;
+    font: "JetBrains Mono Nerd Font 10";
+}
+
+//@theme "~/.config/rofi/theme.rasi"
+
+@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
